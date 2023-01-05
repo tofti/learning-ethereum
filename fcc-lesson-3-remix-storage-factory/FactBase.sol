@@ -3,7 +3,7 @@ pragma solidity 0.8.8;
 
 contract FactBase {
 
-     mapping (string => string) internal facts;
+    mapping (string => string) internal facts;
 
     function addFact(string memory _factName, string memory _factValue) public {
         facts[_factName] = _factValue;
