@@ -1,0 +1,11 @@
+Concepts:
+- payable functions;
+- require / revert;
+- interfaces, instantiating instances w/ address;
+ - compiled interfaces produce ABI (only);
+- math, and safe math;
+- tuples;
+- chainlink;
+- test nets;
+- casting;
+- import from npm  

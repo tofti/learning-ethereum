@@ -1,4 +1,4 @@
-These files were created when studying Lesson 3 Remix Storage. Writing a storage client w/ remix.
+These files were created when studying Lesson 3 Remix Storage from https://www.youtube.com/watch?v=gyMwXuJrbJQ. Writing a "storage" client w/ remix.
 Concepts convered are:
 - factories (contracts creating and storing contract instances);
 - mappings;
