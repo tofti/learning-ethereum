@@ -1,4 +1,4 @@
-Concepts:
+Concepts from Video:
 - payable functions;
 - require / revert;
 - interfaces, instantiating instances w/ address;
@@ -9,3 +9,11 @@ Concepts:
 - test nets;
 - casting;
 - import from npm  
+
+Concepts from Notes:
+- 
+
+Exercise: Write a lottery.
+ - Create a contract that has a max defined ETH pot;
+ - When max ETH is hit (and not more) pick a random winner that gets
+ - Use a chainlink contract for rng for selecting a winnter
